@@ -1,4 +1,4 @@
-download all files
+download all files except the README.md file
 go to .py file
 scoll all the way down
 replace the KEEP THE APOSTROP..... with your token
