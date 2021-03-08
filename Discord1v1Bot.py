@@ -248,6 +248,6 @@ async def purge(ctx, ammount=5):
     else:
         await ctx.send('you do not have the perms to purge')
 
-client.run('ODE2NDUwMjY0NjI1OTcxMjEx.YD7Ijw.gBWZKd923mbLleTEWIOhXSBczYI')
+client.run('KEEP THE APOSTROPHES AND PASTE TOKEN HERE')
 
 
